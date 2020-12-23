@@ -20,7 +20,11 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Back button to cancel editing.
+* [x] Slide to delete.
+* [x] Undo option on delete.
+* [x] Press enter to add item to ToDo list.
+* [x] Check box upon completion of task.
 
 ## Video Walkthrough
 
@@ -32,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+While attempting to implement the slide to delete feature I struggled with implementing an image to indicate deletion upon slide.
 
 ## License
 
